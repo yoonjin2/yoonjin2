@@ -1,4 +1,4 @@
-### Byebye, there. XP 👋
+### 코딩 접는다, 씹새끼들아.. 👋
 
 ![Yunjin Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonjin2&hide=contribs,prs&count_private=true)
 
