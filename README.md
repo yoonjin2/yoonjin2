@@ -1,8 +1,8 @@
 # What you sense is what you feel, what you feel is what you believe. There is no strict emotional responces, there would be a reflection of ours.
 
 ## What is the heart of SW Development?
-This will  divided into Two sections.
 ------
+This will  divided into Two sections.
 ### Technical interpretation
 Rigid, Safe, and Fast. Show me the code, and your analysis before you talk.
 ### Cultural interpretation
