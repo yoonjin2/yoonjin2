@@ -4,7 +4,7 @@
 ------
 This will  divided into Two sections.
 ### Technical interpretation
-Rigid, Safe, and Fast. Show me the code, and your analysis before you talk.
+Safe, and Fast. Show me the code, and your analysis before you talk.
 ### Cultural interpretation
  This is based on MY cultural basis. The only thing we can strictly split into, is Yin/Yang(0 and 1). The world we perceive, is the world we simulated. So we should classify things, at 2x2 groups: { (Cohesive, Fluent) , (True, False) }. When things tends to lose their stability, you should find their tendency to fix them.
 ## Developer's Profile
