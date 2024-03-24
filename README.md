@@ -13,7 +13,7 @@ Safe, and Fast. Show me the code, and your analysis before you talk.
  ## Notice
  People, who declare me as a fool, are seeing their foolish part, from mirror named YUNJIN. So don't be rude. Or I would crash your boundaries as an amount of what I've lost. So don't be a teacher of others. I am also aware of my neighborhoods, so don't be rude on your friends.
  ### Warning
- I have Autism Spectrum Disorder, but I will use this as a metric to analyze people. People who see me as a broken machine tends to be more rude(maybe they lost their humanity). So please treat me as a mere human, not as a failed research of my parents.
+ I don't accept nerds, so f**k you grey hood-shirts.
  So reverse-think before you tank.
  # Who would be my people
 People who know about the eternal origin of this world.
